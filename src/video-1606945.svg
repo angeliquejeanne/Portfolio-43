@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="338.67mm" height="225.78mm" version="1.1" viewBox="0 0 1200 799.99997" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="translate(165.71 41.924)">
+  <rect x="-165.71" y="-41.924" width="1200" height="800" fill="#81d4fa" fill-rule="evenodd"/>
+  <use transform="matrix(.075795 .044264 -.044264 .075795 -412.21 733.13)" width="100%" height="100%" fill="#263238" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -431.59 770.03)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -390.61 770.03)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -349.6 770.03)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -307.37 770.03)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -266.23 770.03)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.22723 .1327 -.1327 .22723 -364.52 454.14)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.075795 .044264 -.044264 .075795 -413.99 519.61)" width="100%" height="100%" fill="#263238" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -433.37 556.51)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -392.38 556.51)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -351.38 556.51)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -309.15 556.51)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -268.01 556.51)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.22723 .1327 -.1327 .22723 -138.53 857.59)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.075795 .044264 -.044264 .075795 -195.06 915.98)" width="100%" height="100%" fill="#263238" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -214.45 952.89)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -173.46 952.89)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -132.46 952.89)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -90.231 952.89)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.054537 .03185 -.03185 .054537 -49.091 952.89)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.22723 .1327 -.1327 .22723 1333 393.62)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.22723 .1327 -.1327 .22723 1333 393.62)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <use transform="matrix(.22723 .1327 -.1327 .22723 1333 393.62)" width="100%" height="100%" fill="#ffffff" xlink:href="#Merge"/>
+  <g transform="matrix(2.8225 0 0 2.8225 797.18 -2241.3)">
+   <path d="m-192.08 1035.9h127.01c0.689 0 1.501-0.6045 1.2436-1.2436l-6.2161-15.436c-0.2573-0.6391-2.8856-1.2437-3.5745-1.2437h-109.91c-0.6889 0-3.3172 0.6046-3.5746 1.2437l-6.216 15.436c-0.25744 0.6391 0.55461 1.2436 1.2435 1.2436z" fill="#1a1a1a" fill-rule="evenodd"/>
+   <path d="m-138.85 981.61h20.557v39.579c-6.443 2.6791-13.142 3.0876-20.557 0z" fill="#333" fill-rule="evenodd"/>
+   <path d="m-120.21 981.61h1.9127v39.321c-0.3783 0.4702-1.1356 1.0883-1.93 1.0958z" fill="#212121" fill-rule="evenodd"/>
+   <rect transform="scale(1,-1)" x="-272.16" y="-998.55" width="287.17" height="177.48" ry="12.307" fill="#fff" fill-rule="evenodd"/>
+   <rect x="-266.97" y="810.89" width="276.62" height="164.86" fill="#b2dfdb" fill-rule="evenodd"/>
+   <rect transform="scale(-1,1)" x="22.155" y="813.44" width="213.02" height="162.3" fill="#fff" fill-rule="evenodd"/>
+   <rect transform="scale(-1,1)" x="22.155" y="813.44" width="213.02" height="16.085" fill="#263238" fill-rule="evenodd"/>
+   <rect transform="scale(-1,1)" x="22.155" y="941.33" width="213.02" height="34.412" fill="#eceff1" fill-rule="evenodd"/>
+   <path d="m-272.2 806.02v177.31h287.25v-177.31h-287.25zm6.771 9.1634h272.46v158.25h-272.46v-158.25z" fill="#4d4d4d" fill-rule="evenodd"/>
+   <path d="m-192.08 1035.9h127.01c0.689 0 1.501-0.1262 1.2436-0.2596l-6.2161-3.2222c-0.2573-0.1335-2.8856-0.2596-3.5745-0.2596h-109.91c-0.6889 0-3.3172 0.1261-3.5746 0.2596l-6.216 3.2222c-0.25744 0.1334 0.55461 0.2596 1.2435 0.2596z" fill="#424242" fill-rule="evenodd"/>
+   <rect x="-201.65" y="838.86" width="145.97" height="90.409" ry="2.1429" fill="#263238" fill-rule="evenodd"/>
+   <circle cx="-128.66" cy="880.53" r="19.821" fill="#fff" fill-rule="evenodd"/>
+   <circle cx="-128.66" cy="880.53" r="17.224" fill="#263238" fill-rule="evenodd"/>
+   <rect x="-201.65" y="917.65" width="145.97" height="11.617" ry="1.9718" fill="#455a64" fill-rule="evenodd"/>
+   <rect x="-183.48" y="922.07" width="63.135" height="3.283" ry="1.6415" fill="#263238" fill-rule="evenodd"/>
+   <rect x="-183.48" y="922.07" width="40.154" height="3.283" ry="1.6415" fill="#546e7a" fill-rule="evenodd"/>
+   <rect x="-70.85" y="920.95" width="1.6415" height="5.4964" ry=".35298" fill="#90a4ae" fill-rule="evenodd"/>
+   <rect x="-73.082" y="922.04" width="1.6415" height="4.4043" ry=".28285" fill="#90a4ae" fill-rule="evenodd"/>
+   <rect x="-75.404" y="923.13" width="1.6415" height="3.3122" ry=".21271" fill="#90a4ae" fill-rule="evenodd"/>
+   <rect x="-77.591" y="924.19" width="1.6415" height="2.2523" ry=".16735" fill="#90a4ae" fill-rule="evenodd"/>
+   <rect x="-79.779" y="925.06" width="1.6415" height="1.385" ry=".20251" fill="#90a4ae" fill-rule="evenodd"/>
+   <path d="m-58.832 924.13v-0.85606l-0.8101-0.18431c-0.049-0.17307-0.1169-0.33781-0.2032-0.4914l0.4424-0.70291-0.6054-0.60532-0.7028 0.44225c-0.1536-0.0865-0.3183-0.15455-0.4914-0.20326l-0.1843-0.80999h-0.856l-0.1843 0.80999c-0.1731 0.0488-0.3378 0.11681-0.4915 0.20326l-0.7029-0.44225-0.6054 0.60532 0.4424 0.70291c-0.086 0.15359-0.1545 0.31833-0.2033 0.4914l-0.8101 0.18431v0.85606l0.8101 0.18431c0.049 0.17316 0.1169 0.33781 0.2033 0.4914l-0.4424 0.70291 0.6054 0.6054 0.7029-0.44233c0.1536 0.0864 0.3183 0.15455 0.4915 0.20326l0.1843 0.80999h0.856l0.1843-0.80999c0.173-0.0488 0.3378-0.11682 0.4914-0.20326l0.7028 0.44233 0.6054-0.6054-0.4424-0.70291c0.086-0.15359 0.1544-0.31824 0.2032-0.4914l0.8101-0.18431z" fill="#90a4ae"/>
+   <circle cx="-61.815" cy="923.7" r="1.492" fill="#455a64"/>
+   <rect x="-229.6" y="947.54" width="35.033" height="21.699" ry=".5143" fill="#ff7043" fill-rule="evenodd"/>
+   <path d="m-207.32 958.39a4.7573 4.7573 0 0 1 -4.7573 4.7573 4.7573 4.7573 0 0 1 -4.7573 -4.7573 4.7573 4.7573 0 0 1 4.7573 -4.7573 4.7573 4.7573 0 0 1 4.7573 4.7573z" fill="#fff" fill-rule="evenodd"/>
+   <path d="m-207.95 958.39a4.1339 4.1339 0 0 1 -4.1339 4.1339 4.1339 4.1339 0 0 1 -4.1339 -4.1339 4.1339 4.1339 0 0 1 4.1339 -4.1339 4.1339 4.1339 0 0 1 4.1339 4.1339z" fill="#ff7043" fill-rule="evenodd"/>
+   <rect x="-188.61" y="947.54" width="35.033" height="21.699" ry=".5143" fill="#cddc39" fill-rule="evenodd"/>
+   <path d="m-166.34 958.39a4.7573 4.7573 0 0 1 -4.7573 4.7573 4.7573 4.7573 0 0 1 -4.7573 -4.7573 4.7573 4.7573 0 0 1 4.7573 -4.7573 4.7573 4.7573 0 0 1 4.7573 4.7573z" fill="#fff" fill-rule="evenodd"/>
+   <path d="m-166.96 958.39a4.1339 4.1339 0 0 1 -4.1339 4.1339 4.1339 4.1339 0 0 1 -4.134 -4.1339 4.1339 4.1339 0 0 1 4.134 -4.1339 4.1339 4.1339 0 0 1 4.1339 4.1339z" fill="#cddc39" fill-rule="evenodd"/>
+   <rect x="-147.61" y="947.54" width="35.033" height="21.699" ry=".5143" fill="#29b6f6" fill-rule="evenodd"/>
+   <path d="m-125.33 958.39a4.7573 4.7573 0 0 1 -4.7573 4.7573 4.7573 4.7573 0 0 1 -4.7573 -4.7573 4.7573 4.7573 0 0 1 4.7573 -4.7573 4.7573 4.7573 0 0 1 4.7573 4.7573z" fill="#fff" fill-rule="evenodd"/>
+   <path d="m-125.96 958.39a4.1339 4.1339 0 0 1 -4.134 4.1339 4.1339 4.1339 0 0 1 -4.1339 -4.1339 4.1339 4.1339 0 0 1 4.1339 -4.1339 4.1339 4.1339 0 0 1 4.134 4.1339z" fill="#29b6f6" fill-rule="evenodd"/>
+   <rect x="-105.38" y="947.54" width="35.033" height="21.699" ry=".5143" fill="#ffb300" fill-rule="evenodd"/>
+   <path d="m-83.106 958.39a4.7573 4.7573 0 0 1 -4.7573 4.7573 4.7573 4.7573 0 0 1 -4.7574 -4.7573 4.7573 4.7573 0 0 1 4.7574 -4.7573 4.7573 4.7573 0 0 1 4.7573 4.7573z" fill="#fff" fill-rule="evenodd"/>
+   <path d="m-83.73 958.39a4.1339 4.1339 0 0 1 -4.1339 4.1339 4.1339 4.1339 0 0 1 -4.134 -4.1339 4.1339 4.1339 0 0 1 4.134 -4.1339 4.1339 4.1339 0 0 1 4.1339 4.1339z" fill="#ffb300" fill-rule="evenodd"/>
+   <rect x="-64.24" y="947.54" width="35.033" height="21.699" ry=".5143" fill="#1de9b6" fill-rule="evenodd"/>
+   <path d="m-41.966 958.39a4.7573 4.7573 0 0 1 -4.7573 4.7573 4.7573 4.7573 0 0 1 -4.7573 -4.7573 4.7573 4.7573 0 0 1 4.7573 -4.7573 4.7573 4.7573 0 0 1 4.7573 4.7573z" fill="#fff" fill-rule="evenodd"/>
+   <path d="m-42.589 958.39a4.1339 4.1339 0 0 1 -4.1339 4.1339 4.1339 4.1339 0 0 1 -4.1339 -4.1339 4.1339 4.1339 0 0 1 4.1339 -4.1339 4.1339 4.1339 0 0 1 4.1339 4.1339z" fill="#1de9b6" fill-rule="evenodd"/>
+   <path d="m-116.11 880.53-18.333 10.585v-21.169z" fill="#fff" fill-rule="evenodd"/>
+   <path d="m-208.71 958.44-4.6007 2.6562v-5.3124z" fill="#fff" fill-rule="evenodd"/>
+   <path d="m-168.08 958.44-4.6007 2.6562v-5.3124z" fill="#fff" fill-rule="evenodd"/>
+   <path d="m-126.92 958.44-4.6007 2.6562v-5.3124z" fill="#fff" fill-rule="evenodd"/>
+   <path d="m-84.873 958.44-4.6007 2.6562v-5.3124z" fill="#fff" fill-rule="evenodd"/>
+   <path d="m-43.772 958.44-4.6007 2.6562v-5.3124z" fill="#fff" fill-rule="evenodd"/>
+  </g>
+ </g>
+</svg>
